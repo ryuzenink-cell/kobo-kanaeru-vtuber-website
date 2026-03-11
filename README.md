@@ -4,6 +4,10 @@
   <img src="assets/preview/site-preview.png" width="800">
 </p>
 
+## 🌐 Live Demo
+
+https://ryuzenink-cell.github.io/kobo-kanaeru-vtuber-website/
+
 Aqua Idol é um **projeto conceitual de website inspirado em VTubers**, criado como estudo de **web design, front-end development e experiência visual para criadores de conteúdo**.
 
 O objetivo deste projeto foi desenvolver uma **landing page moderna, responsiva e visualmente envolvente**, simulando como seria o site oficial de uma VTuber de temática aquática.
