@@ -1,4 +1,4 @@
-# 🌊 Aqua Idol — VTuber Tribute Website
+# 🌊 Kobo Kanaeru — VTuber Tribute Website
 
 <p align="center">
   <img src="assets/preview/site-preview.png" width="800">
